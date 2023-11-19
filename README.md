@@ -7,23 +7,19 @@ A new Flutter project.
 <img src="https://github.com/MayorBee404/flutter_pemula/blob/main/screenshot/ss1.png"
      alt="Flutter"
      style="float: left; margin-right: 10px;"
-     width="150" /> 
+     width="200" /> 
 <img src="https://github.com/MayorBee404/flutter_pemula/blob/main/screenshot/ss4.png"
      alt="Flutter"
      style="float: left; margin-right: 10px;"
-     width="150" />
+     width="200" />
 <img src="https://github.com/MayorBee404/flutter_pemula/blob/main/screenshot/ss2.png"
      alt="Flutter"
      style="float: left; margin-right: 10px;"
-     width="150" />
+     width="200" />
 <img src="https://github.com/MayorBee404/flutter_pemula/blob/main/screenshot/ss3.png"
      alt="Flutter"
      style="float: left; margin-right: 10px;"
-     width="150" />
-<img src="https://github.com/MayorBee404/flutter_pemula/blob/main/screenshot/ss4.png"
-     alt="Flutter"
-     style="float: left; margin-right: 10px;"
-     width="150" />
+     width="200" />
 
 
 ## Getting Started
