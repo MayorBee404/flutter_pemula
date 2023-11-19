@@ -1,4 +1,4 @@
-# Submission Flutter Pemula
+# Submission Flutter Pemula Dicoding
 
 A new Flutter project.
 
@@ -8,6 +8,10 @@ A new Flutter project.
      alt="Flutter"
      style="float: left; margin-right: 10px;"
      width="150" /> 
+<img src="https://github.com/MayorBee404/flutter_pemula/blob/main/screenshot/ss4.png"
+     alt="Flutter"
+     style="float: left; margin-right: 10px;"
+     width="150" />
 <img src="https://github.com/MayorBee404/flutter_pemula/blob/main/screenshot/ss2.png"
      alt="Flutter"
      style="float: left; margin-right: 10px;"
