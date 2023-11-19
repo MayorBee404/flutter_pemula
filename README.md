@@ -16,10 +16,6 @@ A new Flutter project.
      alt="Submission3"
      style="float: left; margin-right: 10px;"
      width="150" />
-<img src="https://github.com/MayorBee404/flutter-pemula/blob/main/screenshot/Screenshot_3.png"
-     alt="Flutter"
-     style="float: left; margin-right: 10px;"
-     width="150" />
 <img src="https://github.com/MayorBee404/flutter-pemula/blob/main/screenshot/ss4.png"
      alt="Flutter"
      style="float: left; margin-right: 10px;"
